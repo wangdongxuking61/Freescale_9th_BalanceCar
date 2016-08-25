@@ -5,8 +5,8 @@
 * 学校：大连理工大学<p>
 * 队伍：凌立印象队<p>
 * 谈情怀、技术、公平性等撕逼话题，请转：http://www.znczz.com/thread-105261-1-1.html<p>
-* 2014年国赛预赛:http://v.youku.com/v_show/id_XMTY5NDQ2NTg4OA==.html
-* 2016年6月重跑:http://v.youku.com/v_show/id_XMTY5MTQzMzA4OA==.html
+* 2014年国赛预赛:http://v.youku.com/v_show/id_XMTY5NDQ2NTg4OA==.html<p>
+* 2016年6月重跑:http://v.youku.com/v_show/id_XMTY5MTQzMzA4OA==.html<p>
 
 ### 上位机<p>
 * 做关于硬件的比赛肯定少不了上位机的辅助，然而一个好的上位机简直是利器<p>
