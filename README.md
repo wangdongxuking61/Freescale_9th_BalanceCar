@@ -8,8 +8,8 @@
 * 2016年6月重跑：http://v.youku.com/v_show/id_XMTY5MTQzMzA4OA==.html?beta&<p>
 * 2014年国赛预赛(2.45m/s)：http://v.youku.com/v_show/id_XMTY5NDQ2NTg4OA==.html<p>
 * 2014年国赛决赛：没拍...真后悔...<p>
-* 2014年赛区预赛：http://v.youku.com/v_show/id_XMTY5NjgwNzE4OA==.html?beta&
-* 2014年赛区决赛：http://v.youku.com/v_show/id_XMTY5NDQ2OTcyMA==.html?beta&
+* 2014年赛区预赛：http://v.youku.com/v_show/id_XMTY5NjgwNzE4OA==.html?beta&<p>
+* 2014年赛区决赛：http://v.youku.com/v_show/id_XMTY5NDQ2OTcyMA==.html?beta&<p>
 
 ### 上位机<p>
 * 做关于硬件的比赛肯定少不了上位机的辅助，然而一个好的上位机简直是利器<p>
